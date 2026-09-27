@@ -1,0 +1,11 @@
+youtube-transcript-api
+
+#text splitters
+langchain-text-splitters
+
+langchain-openai
+
+dotenv
+
+#vectordb
+langchain-chroma
